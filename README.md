@@ -20,4 +20,4 @@ azure-translator/
 ├── index.html     # UI structure
 ├── style.css      # Styling and layout
 ├── script.js      # API integration logic
-└── README.md      # Project documentation
+└── README.md      # Project documentation# Azure-translator-Simran-Rajput
